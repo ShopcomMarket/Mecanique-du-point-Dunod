@@ -12,7 +12,7 @@ https://www.shopcom.tn/product/mecanique-du-point-dunod/
 Product Price : 26 $
 
 Payment :
-https://www.shopcom.tn/payment
+https://www.shopcom.tn/payments
 
 Website :
 https://www.shopcom.tn
